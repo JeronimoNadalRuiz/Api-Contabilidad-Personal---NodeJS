@@ -15,7 +15,7 @@
   "author": "Jeronimo Nadal Ruiz",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^1.0.2",
+    "bcrypt": "^5.0.0",
     "dateformat": "^2.0.0",
     "express": "^4.14.0",
     "jwt-simple": "^0.5.1",
